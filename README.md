@@ -1,1 +1,1 @@
-# odin-recipes
+Odin-Project: Building a Recipe web pages with HTML only 
